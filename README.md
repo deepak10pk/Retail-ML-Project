@@ -16,5 +16,7 @@ To predict whether a store should get opened or not based on certain factors suc
 
 
  * Evaluation Criterion : auc score on test data. larger auc score, better Model
+ 
+ # Note : Algorithm used is >>> gbm
 
 
